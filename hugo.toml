@@ -2,6 +2,7 @@ baseURL = 'https://docs.noaidarling.hamishmb.com'
 locale = 'en-us'
 title = 'NoAiDarling Docs'
 theme = "nojs"
+
 [markup]
   [markup.highlight]
     noClasses = false
