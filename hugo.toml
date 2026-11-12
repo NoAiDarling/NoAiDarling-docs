@@ -1,0 +1,33 @@
+baseURL = 'https://docs.noaidarling.hamishmb.com'
+locale = 'en-us'
+title = 'NoAiDarling Docs'
+theme = "nojs"
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[menus]
+  [[menus.main]]
+    name = '1. Introduction'
+    pageRef = '/'
+    weight = 1
+
+  [[menus.main]]
+    name = '2. Using NoAiDarling'
+    pageRef = '/using-noaidarling'
+    weight = 2
+  
+  [[menus.main]]
+    name = '3. NoAiDarling internals'
+    pageRef = '/internals'
+    weight = 3
+
+  [[menus.main]]
+    name = '4. Contributing'
+    pageRef = '/contributing'
+    weight = 4
+
+  [[menus.main]]
+    name = '5. Community'
+    pageRef = '/community'
+    weight = 5
