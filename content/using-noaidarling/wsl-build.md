@@ -1,5 +1,5 @@
 +++
-date = '2026-11-11T21:31:12Z'
+date = '2026-11-12T00:00:01Z'
 title = '2.2. Building for the WSL'
 +++
 # Building for the WSL

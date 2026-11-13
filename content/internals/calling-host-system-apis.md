@@ -1,5 +1,5 @@
 +++
-date = '2026-11-11T00:01:13Z'
+date = '2026-11-12T00:00:01Z'
 title = '3.2. Calling Host System Apis'
 +++
 # Calling host system APIs

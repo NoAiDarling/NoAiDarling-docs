@@ -1,5 +1,5 @@
 +++
-date = '2026-11-11T23:10:06Z'
+date = '2026-11-12T00:00:01Z'
 title = '2.5. NoAiDarling Prefix'
 +++
 # NoAiDarling prefix

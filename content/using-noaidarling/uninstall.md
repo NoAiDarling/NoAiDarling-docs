@@ -1,5 +1,5 @@
 +++
-date = '2026-11-11T21:38:09Z'
+date = '2026-11-12T00:00:01Z'
 title = '2.3. Uninstall'
 +++
 # Uninstall

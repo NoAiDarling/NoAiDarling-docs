@@ -1,5 +1,5 @@
 +++
-date = '2026-11-11T23:27:31Z'
+date = '2026-11-12T00:00:01Z'
 title = '2.7. What to Try'
 +++
 # What to try
