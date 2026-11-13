@@ -1,6 +1,5 @@
 +++
 date = '2026-11-12T00:00:01Z'
-draft = true
 title = '3.1.2. System Call Emulation'
 +++
 # System call emulation
